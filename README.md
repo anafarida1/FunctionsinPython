@@ -1,0 +1,4 @@
+https://colab.research.google.com/drive/17KjBlrg9RfRHvQ0t1oqWAegczwsGsiJF?usp=sharing
+
+Learning to create functions in Python helps build organized, reusable, and efficient code. Functions divide a task into smaller steps, making programs easier to read, manage, and improve. This structured approach supports logical thinking and helps developers design clear solutions for various programming problems.
+I applied this concept using Google Colab, an online platform for writing and running Python code directly in the browser. Through several exercises, I created functions for calculations, data processing, and simple automation. Working in Colab made it easy to test ideas, review results, and refine my code, strengthening both my technical skills and confidence in solving problems with Python.
